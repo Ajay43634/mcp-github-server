@@ -2,7 +2,7 @@
 
 A Python-based [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server that connects **Claude Desktop** directly to GitHub — letting you manage repositories, push code, open issues, and more, all through natural language.
 
-> 🔗 [github.com/Ajay43634/mcp-github-server](https://github.com/Ajay43634/mcp-github-server)
+
 
 ---
 
